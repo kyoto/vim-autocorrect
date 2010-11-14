@@ -2199,8 +2199,6 @@ ia cpoy copy
 ia Cpoy Copy
 ia creaeted created
 ia Creaeted Created
-ia creche crèche
-ia Creche Crèche
 ia creedence credence
 ia Creedence Credence
 ia critereon criterion
@@ -3460,8 +3458,6 @@ ia fullfil fulfill
 ia Fullfil Fulfill
 ia fullfiling fulfilling
 ia Fullfiling Fulfilling
-ia fullfiling fulfilling
-ia Fullfiling Fulfilling
 ia fullfill fulfill
 ia Fullfill Fulfill
 ia fullfilled fulfilled
@@ -3504,12 +3500,12 @@ ia garanteed guaranteed
 ia Garanteed Guaranteed
 ia garantees guarantees
 ia Garantees Guarantees
-ia gardai gardaí
-ia Gardai Gardaí
+ia gardai garda?
+ia Gardai Garda?
 ia garnison garrison
 ia Garnison Garrison
-ia gauarana guaraná
-ia Gauarana Guaraná
+ia gauarana guaran?
+ia Gauarana Guaran?
 ia gaurantee guarantee
 ia Gaurantee Guarantee
 ia gauranteed guaranteed
@@ -4872,8 +4868,6 @@ ia mohammedans muslims
 ia Mohammedans Muslims
 ia moil mohel
 ia Moil Mohel
-ia moil soil
-ia Moil Soil
 ia moleclues molecules
 ia Moleclues Molecules
 ia momento memento
@@ -7696,8 +7690,6 @@ ia tyhat that
 ia Tyhat That
 ia tyhe the
 ia Tyhe The
-ia tyhe they
-ia Tyhe They
 ia typcial typical
 ia Typcial Typical
 ia typicaly typically
