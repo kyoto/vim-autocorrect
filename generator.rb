@@ -14,7 +14,7 @@ mappings = {}
 Dir.glob("data/*.dat").each do |file|
   File.open(file).each do |line|
     (lhs, rhs) = line.chomp.split("->").map(&:strip) # we don't want the line ending
-    mappings[lhs] = rhs unless mappings[lhs] || !valid_lhs?(lhs) || lhs.length < 2
+    mappings[lhs] = rhs unless mappings[lhs] || !valid_lhs?(lhs)
   end
 end
 
