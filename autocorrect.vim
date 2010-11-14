@@ -1117,8 +1117,8 @@ ia auxilliaries auxiliaries
 ia Auxilliaries Auxiliaries
 ia auxilliary auxiliary
 ia Auxilliary Auxiliary
-ia availabe  available
-ia Availabe  Available
+ia availabe available
+ia Availabe Available
 ia availablity availability
 ia Availablity Availability
 ia availaible available
@@ -1371,10 +1371,10 @@ ia calander calendar
 ia Calander Calendar
 ia calculs calculus
 ia Calculs Calculus
-ia caliberate calibrate 
-ia Caliberate Calibrate 
-ia caliberation calibration 
-ia Caliberation Calibration 
+ia caliberate calibrate
+ia Caliberate Calibrate
+ia caliberation calibration
+ia Caliberation Calibration
 ia caligraphy calligraphy
 ia Caligraphy Calligraphy
 ia caluclate calculate
@@ -6661,8 +6661,8 @@ ia scaricity scarcity
 ia Scaricity Scarcity
 ia scavanged scavenged
 ia Scavanged Scavenged
-ia sceptical skeptical 
-ia Sceptical Skeptical 
+ia sceptical skeptical
+ia Sceptical Skeptical
 ia schedual schedule
 ia Schedual Schedule
 ia scholarhip scholarship

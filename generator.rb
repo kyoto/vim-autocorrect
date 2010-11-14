@@ -7,7 +7,7 @@ end
 # Load all mappings. If there are duplicate lhs strings, ignore all but the first.
 mappings = {}
 File.open("autocorrect.dat").each do |line|
-  (lhs, rhs) = line.chomp.split("->") # we don't want the line ending
+  (lhs, rhs) = line.chomp.split("->").map(&:strip) # we don't want the line ending
   mappings[lhs] = rhs unless mappings[lhs]
 end
 
