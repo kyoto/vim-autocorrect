@@ -1472,8 +1472,8 @@ ia cannotation connotation
 ia Cannotation Connotation
 ia cannotations connotations
 ia Cannotations Connotations
-ia cant cannot
-ia Cant Cannot
+ia cant can't
+ia Cant Can't
 ia caost coast
 ia Caost Coast
 ia caperbility capability
@@ -1680,6 +1680,7 @@ ia choosen chosen
 ia Choosen Chosen
 ia chracter character
 ia Chracter Character
+ia christmas Christmas
 ia chuch church
 ia Chuch Church
 ia churchs churches
@@ -2829,6 +2830,8 @@ ia dominiant dominant
 ia Dominiant Dominant
 ia donig doing
 ia Donig Doing
+ia dont don't
+ia Dont Don't
 ia doub doubt
 ia Doub Doubt
 ia doulbe double
@@ -3490,10 +3493,14 @@ ia fisionable fissionable
 ia Fisionable Fissionable
 ia flamable flammable
 ia Flamable Flammable
+ia flase false
+ia Flase False
 ia flawess flawless
 ia Flawess Flawless
 ia fleed fled
 ia Fleed Fled
+ia flie file
+ia Flie File
 ia florescent fluorescent
 ia Florescent Fluorescent
 ia flourescent fluorescent
@@ -4606,6 +4613,8 @@ ia laguage language
 ia Laguage Language
 ia laguages languages
 ia Laguages Languages
+ia laod load
+ia Laod Load
 ia larg large
 ia Larg Large
 ia largst largest
@@ -6527,6 +6536,10 @@ ia recipiant recipient
 ia Recipiant Recipient
 ia recipiants recipients
 ia Recipiants Recipients
+ia recipie recipe
+ia Recipie Recipe
+ia recipies recipes
+ia Recipies Recipes
 ia recived received
 ia Recived Received
 ia recivership receivership
@@ -8059,6 +8072,12 @@ ia toke took
 ia Toke Took
 ia tolerence tolerance
 ia Tolerence Tolerance
+ia tollerance tolerance
+ia Tollerance Tolerance
+ia tollerate tolerate
+ia Tollerate Tolerate
+ia tollerence tolerance
+ia Tollerence Tolerance
 ia tomatos tomatoes
 ia Tomatos Tomatoes
 ia tommorow tomorrow
@@ -8206,6 +8225,8 @@ ia ubiquitious ubiquitous
 ia Ubiquitious Ubiquitous
 ia ublisher publisher
 ia Ublisher Publisher
+ia uesr user
+ia Uesr User
 ia uise use
 ia Uise Use
 ia ultimely ultimately
