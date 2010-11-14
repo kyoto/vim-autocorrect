@@ -4,13 +4,21 @@ def my_capitalize(s)
   s[0..0].upcase + s[1..-1]
 end
 
-output = File.open("autocorrect.vim", "w")
+# Load all mappings. If there are duplicate lhs strings, ignore all but the first.
+mappings = {}
 File.open("autocorrect.dat").each do |line|
-  parts = line.chomp.split("->") # we don't want the line ending
-  output.puts "ia #{parts[0]} #{parts[1]}"
+  (lhs, rhs) = line.chomp.split("->") # we don't want the line ending
+  mappings[lhs] = rhs unless mappings[lhs]
+end
+
+output = File.open("autocorrect.vim", "w")
+mappings.each do |lhs, rhs|
+  output.puts "ia #{lhs} #{rhs}"
+
   # if the words are already capitalized or the correction is capitalization, skip
-  capitalized = my_capitalize(parts[0])
-  unless capitalized == parts[0] || capitalized == parts[1]
-    output.puts "ia #{capitalized} #{my_capitalize(parts[1])}"
+  capitalized = my_capitalize(lhs)
+  unless capitalized == lhs || capitalized == rhs
+    output.puts "ia #{capitalized} #{my_capitalize(rhs)}"
   end
 end
+
