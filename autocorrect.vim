@@ -3500,12 +3500,8 @@ ia garanteed guaranteed
 ia Garanteed Guaranteed
 ia garantees guarantees
 ia Garantees Guarantees
-ia gardai garda?
-ia Gardai Garda?
 ia garnison garrison
 ia Garnison Garrison
-ia gauarana guaran?
-ia Gauarana Guaran?
 ia gaurantee guarantee
 ia Gaurantee Guarantee
 ia gauranteed guaranteed
