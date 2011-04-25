@@ -1,7 +1,7 @@
 require_relative "../generator"
 
 describe "generator" do
-  it "valid_lhs?() determines whether a sting is a valid VIM iabbrev LHS" do
+  it "valid_lhs?() determines whether a string is a valid VIM iabbrev LHS" do
     valid_lhs?("a").should be_true
     valid_lhs?("A").should be_true
     valid_lhs?("1").should be_true
